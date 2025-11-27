@@ -1,0 +1,16 @@
+# Laravel / PHP
+/vendor/
+/.env
+/.idea/
+/node_modules/
+/public/storage
+/storage/*.key
+Homestead.json
+Homestead.yaml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.iml
